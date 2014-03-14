@@ -1,4 +1,15 @@
-.DS_STORE
+\.git
+\.hg
+
+\.DS_Store
+\.project
+bower_components
+npm-debug\.log
+
+mongodb_data
+mongodb_data_test
+
+local
 
 # Logs
 logs
